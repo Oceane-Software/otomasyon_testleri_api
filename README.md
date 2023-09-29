@@ -18,3 +18,9 @@ reports: Holds generated test reports.
 pom.xml: Maven project configuration file specifying dependencies.
 
 runners: TestNG configuration file for managing test suites.
+
+# Running Specific Test Suites
+
+You can run specific test suites by modifying the testng.xml file under the runners package. Add or remove elements to define the suites you want to run.
+
+

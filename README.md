@@ -23,4 +23,7 @@ runners: TestNG configuration file for managing test suites.
 
 You can run specific test suites by modifying the testng.xml file under the runners package. Add or remove elements to define the suites you want to run.
 
+# Generating Reports
+
+Test execution reports can be found in the ‘reports’ directory. You can open the HTML report in a web browser to view test results.
 
